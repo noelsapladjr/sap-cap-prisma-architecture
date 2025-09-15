@@ -1,0 +1,41 @@
+{
+  "name": "cap-prisma-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cds watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cap-js/postgres": "^2.0.4",
+    "@prisma/client": "^6.14.0",
+    "@sap/cds": "^9.2.0",
+    "express": "^4.21.2",
+    "prisma": "^6.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.4",
+    "typescript": "^5.9.2"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "postgres",
+        "model": "*",
+        "impl": "@cap-js/postgres",
+        "credentials": {
+          "host": "localhost",
+          "port": 5432,
+          "user": "postgres",
+          "password": "postgres",
+          "database": "capprismats"
+        }
+      }
+    }
+  }
+}

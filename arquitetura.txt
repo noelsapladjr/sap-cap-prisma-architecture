@@ -1,0 +1,22 @@
+pastas:
+
+db/
+    - schema.cds
+prisma/
+    - schema.prisma
+src/
+    - business-rules/
+        -- index.ts
+        -- users.rules.ts
+    - mappers/
+        -- cap-to-prisma.ts
+    - prisma/
+        -- client.ts
+    - repositories/
+        -- base.repository.ts
+        -- users.repository.ts
+    - services/
+        -- generic-service.ts
+    - srv/
+        -- catalog-service.cds
+        -- catalog-service.ts
